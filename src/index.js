@@ -1,9 +1,9 @@
-import React, { useState } from "react";
+import React from "react";
 import ReactDOM from "react-dom";
 import "./index.css";
 import News from "./news";
 import Nav from "./nav";
-import {BrowserRouter,Switch,Route,Link} from "react-router-dom"
+import {BrowserRouter,Route} from "react-router-dom"
 import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
